@@ -1,0 +1,34 @@
+# ESP8266 / Arduino compiled files
+
+*.bin
+*.elf
+*.hex
+*.map
+
+# Build folders
+
+build/
+dist/
+.cache/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# VS Code settings
+
+.vscode/
+
+# Arduino IDE backup files
+
+*.bak
+
+# Operating system junk
+
+.DS_Store
+Thumbs.db
