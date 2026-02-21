@@ -43,22 +43,6 @@ Nearby devices detect these signals and display duplicate WiFi networks.
 
 
 
-## Output Screenshots
-
-### Main Interface
-
-![Main Interface](images/main_interface.png)
-
-### Duplicate WiFi Networks
-
-![Duplicate Networks](images/duplicate_wifi.png)
-
-### Scan Results
-
-![Scan Results](images/scan_results.png)
-
-
-
 ## Applications
 
 * Cybersecurity learning
